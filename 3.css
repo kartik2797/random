@@ -1,0 +1,28 @@
+body, html {
+    height: 100%;
+  }
+  .bg {
+    /* The image used */
+    background-image: url("3.png");
+  
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .center .btn{
+    background:pink;
+    width:100%;
+    color:white;
+    font-weight:bold;
+    border-radius: 64px;
+   padding:10px;
+   position: absolute;
+right:    0;
+bottom:   0;
+ }
+  
